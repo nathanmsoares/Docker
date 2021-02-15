@@ -1,0 +1,8 @@
+# Configurações do host Geek
+---
+host: geek
+datacenter:
+  location: São Paulo # Capital do estado
+  router: 43
+  switch: 34
+
